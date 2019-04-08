@@ -1,0 +1,10 @@
+C:\Users\shawn\Desktop\Projects\c#\entityframe\CRUDelicious\obj\Debug\netcoreapp2.0\CRUDelicious.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Desktop\Projects\c#\entityframe\CRUDelicious\obj\Debug\netcoreapp2.0\CRUDelicious.AssemblyInfoInputs.cache
+C:\Users\shawn\Desktop\Projects\c#\entityframe\CRUDelicious\obj\Debug\netcoreapp2.0\CRUDelicious.AssemblyInfo.cs
+C:\Users\shawn\Desktop\Projects\c#\entityframe\CRUDelicious\bin\Debug\netcoreapp2.0\CRUDelicious.deps.json
+C:\Users\shawn\Desktop\Projects\c#\entityframe\CRUDelicious\bin\Debug\netcoreapp2.0\CRUDelicious.runtimeconfig.json
+C:\Users\shawn\Desktop\Projects\c#\entityframe\CRUDelicious\bin\Debug\netcoreapp2.0\CRUDelicious.runtimeconfig.dev.json
+C:\Users\shawn\Desktop\Projects\c#\entityframe\CRUDelicious\bin\Debug\netcoreapp2.0\CRUDelicious.dll
+C:\Users\shawn\Desktop\Projects\c#\entityframe\CRUDelicious\bin\Debug\netcoreapp2.0\CRUDelicious.pdb
+C:\Users\shawn\Desktop\Projects\c#\entityframe\CRUDelicious\obj\Debug\netcoreapp2.0\CRUDelicious.dll
+C:\Users\shawn\Desktop\Projects\c#\entityframe\CRUDelicious\obj\Debug\netcoreapp2.0\CRUDelicious.pdb
